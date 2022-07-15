@@ -1,0 +1,23 @@
+#box {
+    background-color: #5b7e7b;
+    height: 300px;
+    width: 700px;
+    visibility: hidden;
+}
+
+body {
+    background-color: #dfc180;
+}
+
+#box.show {
+    visibility: visible;
+}
+
+i {
+    margin-top: 30px;
+    float: right;
+}
+
+button {
+    background-color: #d63e53;
+}
